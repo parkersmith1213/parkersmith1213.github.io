@@ -6,8 +6,8 @@ html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, 
 }
 
 body {
-	background-color: _______; /* Not totally white. */
-	color: _______;  /* Not totally black. */
+	background-color: whitesmoke; /* Not totally white. */
+	color: darkslategray;  /* Not totally black. */
 	line-height: 140%; 	/* A little extra leading. */
 	font-family: _______;
 }
