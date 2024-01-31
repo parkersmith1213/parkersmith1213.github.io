@@ -13,7 +13,7 @@ body {
 }
 
 h1 {
-	background-color:#a7a7a7 ;
+	background-color:#9ba0af ;
 	color:whitesmoke; /* Same as body background. */
 	font-size: 24px;
 	padding: 10px 0 10px 20px; /* You want three values. */
@@ -23,7 +23,7 @@ h1 {
 
 
 h2 {
-	background-color: #a7a7a7;
+	background-color: #9ba0af;
 	color: whitesmoke;
 	font-size: 20px;
 	padding: 10px 0 10px 20px;
