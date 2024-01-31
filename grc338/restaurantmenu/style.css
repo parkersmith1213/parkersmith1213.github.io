@@ -32,7 +32,7 @@ h2 {
 }
 
 h3 {
-	margin: 10px 0 5px; /*Three values again. You got the idea.*/
+	margin: 10px 0 10px 20px; /*Three values again. You got the idea.*/
 	padding-top: 5px;
 	font-size: 16px;
 	color: darkred;
@@ -61,5 +61,4 @@ ul {
 li { 
 	margin: 5px 0;
 	list-style-type: none;
-}
 }
