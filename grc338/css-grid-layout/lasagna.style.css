@@ -9,21 +9,19 @@ color: #0c0c0c;  /* Not totally black. */
 line-height: 140%; 	/* A little extra leading. */
 font-family: poppins, sans-serif;
 }
-
 div.container {
-    max-width: 70em;
-    margin: auto;
-    background-color: white;
+max-width: 70em;
+margin: auto;
+background-color: white;
 }
 figure{
-    display: grid;
-    grid-template-columns:80fr 20fr;
+display: grid;
+grid-template-columns:80fr 20fr;
 }
 main{
-    display: grid;
-    grid-template-columns: 50% 50%;
+display: grid;
+grid-template-columns: 50% 50%;
 }
-
 h1 {
 background-color:#ff8c12 ;
 color:whitesmoke; /* Same as body background. */
